@@ -1,0 +1,5 @@
+# Forum
+
+1. Thread: Created by a User
+2. Reply: Belongs to a Thread, Belongs to a User
+3. User
